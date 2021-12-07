@@ -1,3 +1,3 @@
 # Data-Structures
 
-Contains solutions to various leetcode problems.
+Contains solutions to various problems from LeetCode, GFG.
